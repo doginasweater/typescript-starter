@@ -59,3 +59,9 @@ typings/
 
 # next.js build output
 .next
+
+# sourcetree merge conflict original files
+*.orig
+
+# don't check in compiled files
+dist/
